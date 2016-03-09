@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=circleimage
+Exec=qmlscene $@ Main.qml
+Icon=circleimage.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+

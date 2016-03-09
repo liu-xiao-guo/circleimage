@@ -1,0 +1,6 @@
+{
+    "name": "CircleImage",
+    "description": "This widget converts any image into a circular sized image which can be useful for showing user profile pictures.",
+    "version": "1.0",
+    "documentation_url": "http://ubuntu-component-store.readthedocs.org/en/latest/_components/circleimage.html"
+}
